@@ -126,3 +126,4 @@ variable "ec2_asg_max_size" {
     type    = number
     default = 8
 }
+

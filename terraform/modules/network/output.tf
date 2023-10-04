@@ -27,3 +27,4 @@ output "vpc_sn_priv_az1_id" {
 output "vpc_sn_priv_az2_id" {
     value = "${aws_subnet.sn_priv_az2.id}"
 }
+
